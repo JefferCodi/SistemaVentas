@@ -2,7 +2,7 @@
 /**
  * 
  */
-class clienteCN
+class clienteCN 
 {	
 	public function consulta()
 	{
